@@ -11,8 +11,8 @@ this.w = 34;
 this.h = 26;
 this.radius = 12;
 this.frame = 0;
-this.gravity = 0.25;
-this.jump = 4;
+this.gravity = 0.13;
+this.jump = 3;
 this.speed = 0;
 this.rotation = 0
 }
